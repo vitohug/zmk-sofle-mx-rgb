@@ -39,15 +39,6 @@
         };
     };
 
-    macros {
-        Til: Til {
-            compatible = "zmk,behavior-macro";
-            #binding-cells = <0>;
-            bindings = <>;
-            label = "TIL";
-        };
-    };
-
     keymap {
         compatible = "zmk,keymap";
 
